@@ -1,0 +1,13 @@
+{
+    creating angular_app
+   cd path/to/your/projects
+   ng new your-angular-app
+   cd your-angular-app
+   git init
+   touch .gitignore
+   git add.
+   git commit -m "intial commi"
+   git remote add origin
+   git push -u origin master
+
+}
